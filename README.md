@@ -1,2 +1,6 @@
-# channel-content
-Scripts, subtitle files and assets for the channel's video content.
+## Where Do We Post Content?
+## Sponsors
+## Affiliates
+## Assets
+## Scripts
+## Closed Captions and Translations
