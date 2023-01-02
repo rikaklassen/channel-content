@@ -1,4 +1,4 @@
-## Where Do We Post Content?
+## Where Are Content Posted?
 - [YouTube](https://www.youtube.com/@rikaklassen)
 - [Vimeo](https://vimeo.com/rikaklassen)
 - PeerTube
