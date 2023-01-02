@@ -2,6 +2,7 @@
 - [YouTube](https://www.youtube.com/@rikaklassen)
 - [Vimeo](https://vimeo.com/rikaklassen)
 - PeerTube
+- [Internet Archive](https://archive.org/details/@rika_klassen)
 ## Sponsors
 ## Affiliates
 ## Assets
