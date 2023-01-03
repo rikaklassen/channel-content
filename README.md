@@ -8,3 +8,4 @@
 ## Assets
 ## Scripts
 ## Closed Captions and Translations
+Requested translations can be found under #TeamTranslation or in individual playlists.
