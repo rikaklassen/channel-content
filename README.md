@@ -8,4 +8,4 @@
 ## Assets
 ## Scripts
 ## Closed Captions and Translations
-Requested translations can be found under #TeamTranslation or in individual playlists. When done translating or captioning, either add "#WithSubtitles" or "#WithCaptions".
+Requested translations can be found under #TranslationTeam or in individual playlists. When done translating or captioning, either add "#WithSubtitles" or "#WithCaptions".
