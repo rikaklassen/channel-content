@@ -9,3 +9,5 @@
 ## Scripts
 ## Closed Captions and Translations
 Requested translations can be found under #TranslationTeam or in individual playlists. When done translating or captioning, either add "#WithSubtitles" or "#WithCaptions".
+- [Humber College
+Captioning Style Guide](https://mediaarts.humber.ca/assets/files/Captioning_Guide.pdf) ([Archived](https://web.archive.org/web/20221006201412/https://mediaarts.humber.ca/assets/files/Captioning_Guide.pdf))
