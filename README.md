@@ -6,6 +6,7 @@
 ## Sponsors
 ## Affiliates
 ## Assets
+You will find some of the [assests](https://github.com/rikaklassen/channel-content/tree/main/assets) within this repository. If you are covering my work and would like to reference me, go for it.
 ## Scripts
 ## Closed Captions and Translations
 Requested translations can be found under #TranslationTeam or in individual playlists. When done translating or captioning, either add "#WithSubtitles" or "#WithCaptions".
