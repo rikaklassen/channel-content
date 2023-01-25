@@ -8,6 +8,7 @@
 ## Assets
 You will find some of the [assests](https://github.com/rikaklassen/channel-content/tree/main/assets) within this repository. If you are covering my work and would like to reference me, go for it.
 ## Scripts
+All scripts and research materials will be released. Translators and transcribers are welcome to use the sources to make the process easier.
 ## Closed Captions and Translations
 Requested translations can be found under #TranslationTeam or in individual playlists. When done translating or captioning, either add "#WithSubtitles" or "#WithCaptions".
 
@@ -18,3 +19,5 @@ Here are a few helpful styling and formatting guides to get started:
 - [Humber College
 Captioning Style Guide, May 2019](https://mediaarts.humber.ca/assets/files/Captioning_Guide.pdf) ([Archived](https://web.archive.org/web/20221006201412/https://mediaarts.humber.ca/assets/files/Captioning_Guide.pdf))
 - [Rev Caption Style Guide v4.0.1, May 2019](https://cf-public.rev.com/styleguide/caption/Rev%2BCaptioning%2BStyle%2BGuide%2B4.0.1.pdf) ([Archived](https://web.archive.org/web/20210129183102/https://cf-public.rev.com/styleguide/caption/Rev+Captioning+Style+Guide+4.0.1.pdf))
+## Transcripts and video descriptions
+All videos will have transcripts and video descriptions for deafblind audience.
