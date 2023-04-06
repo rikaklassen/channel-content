@@ -1,1 +1,1 @@
-
+- Thorn, Abigail. “[Problems with YouTube & the Internet Creators Guild: Technology & Politics](https://www.youtube.com/watch?v=lsL0-1cwh0w).” *YouTube*. Philosophy Tube, February 3, 2017. Retrieved March 5, 2023. [Archived](http://web.archive.org/web/20220806032915/https://www.youtube.com/watch?v=lsL0-1cwh0w) on August 6, 2022 from the original vai Wayback Machine.
