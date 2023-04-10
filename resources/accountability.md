@@ -53,6 +53,9 @@
 - Wong, Julia Carrie. "[Google staff condemn treatment of temp workers in 'historic' show of solidarity](https://www.theguardian.com/technology/2019/apr/02/google-workers-sign-letter-temp-contractors-protest)." *The Guardian*, April 2, 2019. Retrieved April 6, 2023. [Archived](https://web.archive.org/web/20230323162210/https://www.theguardian.com/technology/2019/apr/02/google-workers-sign-letter-temp-contractors-protest) from the original on March 23, 2023 via Wayback Machine.
 - Wong, Julia Carrie. "['A white-collar sweatshop': Google Assistant contractors allege wage theft](https://www.theguardian.com/technology/2019/may/28/a-white-collar-sweatshop-google-assistant-contractors-allege-wage-theft)." *The Guardian*, June 25, 2019. Retrieved April 6, 2023. [Archived](https://web.archive.org/web/20221118023813/https://www.theguardian.com/technology/2019/may/28/a-white-collar-sweatshop-google-assistant-contractors-allege-wage-theft) from the original on November 18, 2022 via Wayback Machine.
 - "[Google fired us for organizing. We’re fighting back](https://googlewalkout.medium.com/google-fired-us-for-organizing-were-fighting-back-d0daa8113aed)." *Medium*. Google Walkout For Real Change. December 3, 2019. Retrieved April 6, 2023. [Archived](https://web.archive.org/web/20230329140005/https://googlewalkout.medium.com/google-fired-us-for-organizing-were-fighting-back-d0daa8113aed) from the original on March 29, 2023.
+### Privacy
+- Silberling, Amanda. "[Twitter Circle tweets are not that private anymore](https://techcrunch.com/2023/04/10/twitter-circle-bug-not-private/)." *TechCrunch*, April 10, 2023. Retrieved April 10, 2023. [Archived](https://archive.is/3BV8l) on April 10, 2023 from the original via archive.today.
+### Security
 
 If you find this page useful and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
 
