@@ -56,7 +56,8 @@
 ### Privacy
 - Silberling, Amanda. "[Twitter Circle tweets are not that private anymore](https://techcrunch.com/2023/04/10/twitter-circle-bug-not-private/)." *TechCrunch*, April 10, 2023. Retrieved April 10, 2023. [Archived](https://archive.is/3BV8l) on April 10, 2023 from the original via archive.today.
 ### Security
+- 
 
 If you find this page useful and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
 
-Last updated April 7, 2023 (21:26:59 UTC).
+Last updated April 10, 2023 (20:36:05 UTC).
