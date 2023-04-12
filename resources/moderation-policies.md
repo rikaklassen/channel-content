@@ -1,5 +1,6 @@
 ### Hate Speech
 - Alexander, Julia. "[Creators aren’t surprised that YouTube won’t enforce its own policies against harassment](https://www.theverge.com/2019/6/5/18653598/steven-crowder-carlos-maza-youtube-bullying-harassment-commentary-censorship)." *The Verge*, June 5, 2019. Retrieved April 7, 2023. [Archived](https://web.archive.org/web/20230318012041/https://www.theverge.com/2019/6/5/18653598/steven-crowder-carlos-maza-youtube-bullying-harassment-commentary-censorship) from the original on March 18, 2023 via Wayback Machine.
+- Bove, Tristan. "[‘From chaos to moments of irresponsibility’: Top execs reportedly accused Elon Musk of ‘perpetuating racism’ on Twitter in leaked emails](https://fortune.com/2023/04/07/musk-twitter-hate-speech-advertisers/)." *Fortune*, April 7, 2023. Retrieved April 12, 2023. [Archived](https://web.archive.org/web/20230408080846/https://fortune.com/2023/04/07/musk-twitter-hate-speech-advertisers/) from the original on April 8, 2023 via Wayback Machine.
 - Doyle, Jude Ellison "[Substack Is Not a Neutral Platform](https://gen.medium.com/substack-is-not-a-neutral-platform-8fc5bdf8e5f2)." *Medium*. GEN, March 17, 2021. Retrieved April 10, 2023. [Archived](https://web.archive.org/web/20230323164528/https://gen.medium.com/substack-is-not-a-neutral-platform-8fc5bdf8e5f2) from the original on March 23, 2023 via Wayback Machine.
 - Farkokmanesh, Megan. "[YouTube is still restricting and demonetizing LGBT videos — and adding anti-LGBT ads to some](https://www.theverge.com/2018/6/4/17424472/youtube-lgbt-demonetization-ads-algorithm)." *The Verge*, June 4, 2018. Retrieved April 6, 2023. [Archived](https://web.archive.org/web/20221121171058/https://www.theverge.com/2018/6/4/17424472/youtube-lgbt-demonetization-ads-algorithm) from the original on November 21, 2022 via Wayback Machine.
 - Green, Hank. "[Worse than Demonetization: Anti-Gay Ads on LGBTQ+ Videos](https://www.youtube.com/watch?v=CC3OOXD_2MA)." *YouTube*. hankschannel, June 1, 2018. Retrieved April 6, 2023. [Archived](https://web.archive.org/web/20230319162226/https://www.youtube.com/watch?v=CC3OOXD_2MA) from the original on March 19, 2023 via Wayback Machine.
@@ -63,4 +64,4 @@
 
 If you find this page useful and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
 
-Last updated April 10, 2023 (23:50:39 UTC).
+Last updated April 12, 2023 (15:20:18 UTC).
