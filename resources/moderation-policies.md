@@ -78,8 +78,8 @@
 
 [^1]:Anti-Defamation League is one of the most prominent liberal watchdog groups monitoring the U.S. far-right, but the ADL has [fasely accused](https://www.bostonreview.net/articles/emmaia-gelman-anti-defamation-league/) [[Wayback Machine](https://web.archive.org/web/20230211173532/https://www.bostonreview.net/articles/emmaia-gelman-anti-defamation-league/), [archive.today](https://archive.is/qQBfF)] Palestinians and anti-racist activists of antisemitism. The ADL has [collaborated with the FBI](https://www.latimes.com/archives/la-xpm-1993-04-13-mn-22383-story.html) [[Wayback Machine](https://web.archive.org/web/20230330014649/https://www.latimes.com/archives/la-xpm-1993-04-13-mn-22383-story.html), [archive.today](https://archive.is/WkAWB)] to spy on progressive organizations and has [encouraged the police](https://forward.com/news/381488/adl-tells-police-to-infiltrate-and-film-antifa-protests/?attribution=author-article-listing-2-headline) [[Wayback Machine](https://web.archive.org/web/20220702043720/https://forward.com/news/381488/adl-tells-police-to-infiltrate-and-film-antifa-protests/?attribution=author-article-listing-2-headline), [archive.today](https://archive.is/opgqt)] to infilierate and monitor antifascists.
 
-If you find this page useful and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
-
+## Support
+If you find this document useful and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
 ## License and Copyright
 [![Creative Commons Public Domain CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`COPYRIGHT.md`](./COPYRIGHT.md).
