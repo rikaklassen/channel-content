@@ -21,3 +21,6 @@ Captioning Style Guide, May 2019](https://mediaarts.humber.ca/assets/files/Capti
 - [Rev Caption Style Guide v4.0.1, May 2019](https://cf-public.rev.com/styleguide/caption/Rev%2BCaptioning%2BStyle%2BGuide%2B4.0.1.pdf) ([Archived](https://web.archive.org/web/20210129183102/https://cf-public.rev.com/styleguide/caption/Rev+Captioning+Style+Guide+4.0.1.pdf))
 ## Transcripts and Video Descriptions
 All videos will have transcripts and video descriptions for deafblind audience.
+## License and Copyright
+[![Creative Commons Public Domain CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`resources/copyright.md`](./resources/copyright.md).
