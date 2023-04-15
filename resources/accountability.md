@@ -78,8 +78,8 @@
 - Menn, Joseph. "[Ex-Twitter engineer tells FTC security violations persist after Musk](https://www.washingtonpost.com/technology/2023/01/24/whistleblower-twtter-ftc-settlement/)." *The Washington Post*, January 24, 2023. Retrieved April 10, 2023. [Archived](https://archive.is/Yl7s8) from the original on January 24, 2023 via archive.today.
 - Newman, Lily Hay. "[If Musk Starts Firing Twitter's Security Team, Run](https://www.wired.com/story/elon-musk-twitter-security-privacy-risks/)." *Wired*, October 28, 2022. Retrieved April 10, 2023. [Archived](https://archive.is/e1NQm) from the original on October 29, 2022 via archive.today.
 - Winder, Davey. "[Twitter Just Weakened Account Security For Almost 368 Million Users](https://www.forbes.com/sites/daveywinder/2023/02/20/twitter-just-weakened-account-security-for-almost-368-million-users/)." *Forbes*, February 20, 2023. Retrieved April 10, 2023. [Archived](https://archive.is/hJuRd) from the original on February 20, 2023 via archive.today.
-  
-If you find this page useful and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
+## Support
+If you find this document useful and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
 
 ## License and Copyright
 [![Creative Commons Public Domain CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
