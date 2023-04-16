@@ -77,6 +77,7 @@
 ### Security
 - Mac, Ryan and Kate Conger. "[Twitter Says Parts of Its Source Code Were Leaked Online](https://www.nytimes.com/2023/03/26/technology/twitter-source-code-leak.html)." *New York Times*, March 26, 2023. Retrieved April 10, 2023. [Archived](https://archive.is/Kkry9) from the original on April 3, 2023 via archive.today.
 - Menn, Joseph. "[Ex-Twitter engineer tells FTC security violations persist after Musk](https://www.washingtonpost.com/technology/2023/01/24/whistleblower-twtter-ftc-settlement/)." *The Washington Post*, January 24, 2023. Retrieved April 10, 2023. [Archived](https://archive.is/Yl7s8) from the original on January 24, 2023 via archive.today.
+- Mazurov, Nikita. "[Whistleblowers Take Note: Don't Trust Cropping Tools](https://theintercept.com/2023/02/14/whistleblower-image-crop-document/)." *The Intercept*, February 14, 2023. Retrieved April 16, 2023. [Archived](https://web.archive.org/web/20230328070220/https://theintercept.com/2023/02/14/whistleblower-image-crop-document/) from the original on March 28, 2023 via Wayback Machine.
 - Newman, Lily Hay. "[If Musk Starts Firing Twitter's Security Team, Run](https://www.wired.com/story/elon-musk-twitter-security-privacy-risks/)." *Wired*, October 28, 2022. Retrieved April 10, 2023. [Archived](https://archive.is/e1NQm) from the original on October 29, 2022 via archive.today.
 - Winder, Davey. "[Twitter Just Weakened Account Security For Almost 368 Million Users](https://www.forbes.com/sites/daveywinder/2023/02/20/twitter-just-weakened-account-security-for-almost-368-million-users/)." *Forbes*, February 20, 2023. Retrieved April 10, 2023. [Archived](https://archive.is/hJuRd) from the original on February 20, 2023 via archive.today.
 ## Support
@@ -85,4 +86,4 @@ If you find this document useful and wish to see continous updates, please consi
 [![Creative Commons Public Domain CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`COPYRIGHT.md`](./COPYRIGHT.md).
 
-Last updated April 13, 2023 (23:26:41 UTC).
+Last updated April 16, 2023 (18:45:40 UTC).
