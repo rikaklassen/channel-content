@@ -2,6 +2,7 @@
 - Rebecca Watson. "[Big Oil Bought my Favorite Science Influencer](https://www.youtube.com/watch?v=vg81dHXEGMc)." *YouTube* video, 17:04. January 26, 2023. [Archived](https://web.archive.org/web/20230324013106/https://www.youtube.com/watch?v=vg81dHXEGMc) from the original on March 24, 2023 via Wayback Machine.
 - Tom Nicholas. "[Johnny Harris: A Story of YouTube Propaganda](https://www.youtube.com/watch?v=Dum0bqWfiGw)." *YouTube* video, 33:00. March 12, 2021. Retrieved April 12, 2023. [Archived](https://web.archive.org/web/20230324231007/https://www.youtube.com/watch?v=Dum0bqWfiGw) from the original on March 24, 2023 via Wayback Machine.
 - Tom Nicholas. "[Veritasium: A Story of YouTube Propaganda](https://www.youtube.com/watch?v=CM0aohBfUTc)." *YouTube* video, 51:35. October 21, 2021. Retrieved April 12, 2023. [Archived](https://web.archive.org/web/20230404063413/https://www.youtube.com/watch?v=CM0aohBfUTc) from the original on April 4, 2023 via Wayback Machine.
+- Tom Nichlas. "[The Rise (and Fall] of Patreon](https://www.youtube.com/watch?v=mXyN3-gQwJw&t=2051s)." *YouTube* video, 42:46. October 1, 2023. Retrieved October 16, 2023. Archiving pending from the original via Wayback Machine.
 - Tom Scott. "[This Video Is Sponsored By ███ VPN](https://www.youtube.com/watch?v=WVDQEoe6ZWY)." *YouTube* video, 7:25. October 28, 2019. Retrieved April 12, 2023. [Archived](https://web.archive.org/web/20230408201128/https://www.youtube.com/watch?v=WVDQEoe6ZWY) from the original on April 8, 2023 via Wayback Machine.
 ### Transparency
 - The Modern Rogue. "[Modern Rogue Update: November 2017](https://www.youtube.com/watch?v=w259Cj6Rbew&t=533s)." *YouTube* video, 10:46. November 14, 2017. Retrieved April 13, 2023. Archived copy not available for playback.
@@ -87,4 +88,4 @@ If you find this document useful and wish to see continous updates, please consi
 [![Creative Commons Public Domain CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`COPYRIGHT.md`](./COPYRIGHT.md).
 
-Last updated June 20, 2023 (14:10:33 UTC).
+Last updated October 16, 2023 (22:39:07 UTC).
