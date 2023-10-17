@@ -11,12 +11,15 @@
 - Vincent, James. "[OpenAI says it could ‘cease operating’ in the EU if it can’t comply with future regulation](https://www.theverge.com/2023/5/25/23737116/openai-ai-regulation-eu-ai-act-cease-operating)." *The Verge*, May 25, 2023. Retrieved May 28, 2023. [Archived](https://web.archive.org/web/20230527225642/https://www.theverge.com/2023/5/25/23737116/openai-ai-regulation-eu-ai-act-cease-operating) from the original on May 27, 2023 via Wayback Machine.
 - Woodcock, Claire. "[AI Is Tearing Wikipedia Apart](https://www.vice.com/en/article/v7bdba/ai-is-tearing-wikipedia-apart)". *Vice*, May 2, 2023. [Archived](https://web.archive.org/web/20230508002746/https://www.vice.com/en/article/v7bdba/ai-is-tearing-wikipedia-apart) from the original on May 8, 2023 via Wayback Machine.
 - Xiang, Chloe, and Emanuel Maiberg. "[ISIS Executions and Non-Consensual Porn Are Powering AI Art](https://www.vice.com/en/article/93ad75/isis-executions-and-non-consensual-porn-are-powering-ai-art)." *Vice*, September 21, 2022. Retrieved April 20, 2023. [Archived](https://web.archive.org/web/20230408014026/https://www.vice.com/en/article/93ad75/isis-executions-and-non-consensual-porn-are-powering-ai-art) from the original on April 8, 2023 via Wayback Machine.
+## Copyrights
+- Tom Scott. "[YouTube's copyright system isn't broken. The world's is.](https://www.youtube.com/watch?v=1Jwo5qc78QU)." *YouTube* video, 42:28. March 23, 2020. Retrieved October 16, 2023. [Archived](https://web.archive.org/web20231014200952/https://www.youtube.com/watch?v=1Jwo5qc78QU) from the original on October 14, 2023 via Wayback Machine.
 ## Cultural Appropriation
-- Morris, Amanda. ["Fake sign language is spreading on TikTok. Deaf people are worried."](https://www.washingtonpost.com/wellness/2023/05/08/fake-sign-language-asl-tiktok/). *Washington Post*, May 8, 2023. Retrieved May 8, 2023. [Archived](https://archive.is/2AV0m) from the original on May 8, 2023 via archive.today.
+- moeyday. "[Asian American Responds to White Girl's Chinese Dress]." *YouTube* video, 12:20. Retrieved October 16, 2023. Archiving pending from the original via Wayback Machine.
+- Morris, Amanda. "[Fake sign language is spreading on TikTok. Deaf people are worried.](https://www.washingtonpost.com/wellness/2023/05/08/fake-sign-language-asl-tiktok/)." *Washington Post*, May 8, 2023. Retrieved May 8, 2023. [Archived](https://archive.is/2AV0m) from the original on May 8, 2023 via archive.today.
 ## Support
 If you find this document useful and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
 ## License and Copyright
 [![Creative Commons Public Domain CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`COPYRIGHT.md`](./COPYRIGHT.md).
 
-Last updated May 28, 2023 (21:57:19 UTC).
+Last updated October 17, 2023 (00:55:24 UTC).
