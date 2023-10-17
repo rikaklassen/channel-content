@@ -15,7 +15,7 @@
 - DarkViperAU. "[Reactors: The Professional Parasites](https://www.youtube.com/watch?v=Irk8h0ax5aY)." *YouTube* video. 1:11:30. May 15, 2022. Retrieved October 16, 2023. Archiving pending from the original via Wayback Machine.
 - Tom Scott. "[YouTube's copyright system isn't broken. The world's is.](https://www.youtube.com/watch?v=1Jwo5qc78QU)." *YouTube* video, 42:28. March 23, 2020. Retrieved October 16, 2023. [Archived](https://web.archive.org/web20231014200952/https://www.youtube.com/watch?v=1Jwo5qc78QU) from the original on October 14, 2023 via Wayback Machine.
 ## Cultural Appropriation
-- moeyday. "[Asian American Responds to White Girl's Chinese Dress](https://www.youtube.com/watch?v=NHWCCUyCwX0)." *YouTube* video, 12:20. Retrieved October 16, 2023. Archiving pending from the original via Wayback Machine.
+- moeyday. "[Asian American Responds to White Girl's Chinese Dress](https://www.youtube.com/watch?v=NHWCCUyCwX0)." *YouTube* video, 12:20. May 7, 2018. Retrieved October 16, 2023. Archiving pending from the original via Wayback Machine.
 - Morris, Amanda. "[Fake sign language is spreading on TikTok. Deaf people are worried.](https://www.washingtonpost.com/wellness/2023/05/08/fake-sign-language-asl-tiktok/)." *Washington Post*, May 8, 2023. Retrieved May 8, 2023. [Archived](https://archive.is/2AV0m) from the original on May 8, 2023 via archive.today.
 ## Support
 If you find this document useful and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
