@@ -17,10 +17,14 @@
 ## Cultural Appropriation
 - moeyday. "[Asian American Responds to White Girl's Chinese Dress](https://www.youtube.com/watch?v=NHWCCUyCwX0)." *YouTube* video, 12:20. May 7, 2018. Retrieved October 16, 2023. Archiving pending from the original via Wayback Machine.
 - Morris, Amanda. "[Fake sign language is spreading on TikTok. Deaf people are worried.](https://www.washingtonpost.com/wellness/2023/05/08/fake-sign-language-asl-tiktok/)." *Washington Post*, May 8, 2023. Retrieved May 8, 2023. [Archived](https://archive.is/2AV0m) from the original on May 8, 2023 via archive.today.
+- Xiran Jay Zhao. "[How Disney Commodifies Culture - Southeast Asians Roast Raya and the Last Dragon (Part 1)](https://www.youtube.com/watch?v=Pwn8YD8sobo)". *YouTube* video, 1:55:25. February 4, 2022. Retrieved October 23, 2023. [Archived](https://web.archive.org/web/20230727101946/https://www.youtube.com/watch?v=Pwn8YD8sobo) from the original on July 27, 2023 via Wayback Machine.
+- Xiran Jay Zhao. "[How Disney Commodifies Culture - Southeast Asians Roast Raya and the Last Dragon (Part 2)](https://www.youtube.com/watch?v=94ccFuk7HN8)." *YouTube* video, 1:56:52. February 4, 2022. [Archived](https://web.archive.org/web/20230727101852/https://www.youtube.com/watch?v=94ccFuk7HN8) from the original on July 27, 2023 via Wayback Machine.
+- Xiran Jay Zhao. "[Raya's Queerbaiting of Southeast Asians - The Importance of Cultural Context to Queerness](https://www.youtube.com/watch?v=Sw2QySeH_vY)." *YouTube* video, 1:14:24. February 19, 2022. [Archived](https://web.archive.org/web/20230430034355/https://www.youtube.com/watch?v=Sw2QySeH_vY) from the original on April 30, 2023 via Wayback Machine.
+
 ## Support
 If you find this document useful and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
 ## License and Copyright
 [![Creative Commons Public Domain CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`COPYRIGHT.md`](./COPYRIGHT.md).
 
-Last updated October 17, 2023 (00:55:24 UTC).
+Last updated October 23, 2023 (21:10:37 UTC).
