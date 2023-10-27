@@ -13,7 +13,10 @@
 - Xiang, Chloe, and Emanuel Maiberg. "[ISIS Executions and Non-Consensual Porn Are Powering AI Art](https://www.vice.com/en/article/93ad75/isis-executions-and-non-consensual-porn-are-powering-ai-art)." *Vice*, September 21, 2022. Retrieved April 20, 2023. [Archived](https://web.archive.org/web/20230408014026/https://www.vice.com/en/article/93ad75/isis-executions-and-non-consensual-porn-are-powering-ai-art) from the original on April 8, 2023 via Wayback Machine.
 ## Copyrights
 - DarkViperAU. "[Reactors: The Professional Parasites](https://www.youtube.com/watch?v=Irk8h0ax5aY)." *YouTube* video. 1:11:30. May 15, 2022. Retrieved October 16, 2023. Archiving pending from the original via Wayback Machine.
+- Faultline. "[Why All Educational Videos Are the Same](https://www.youtube.com/watch?v=94Df7DbuKsA)." *YouTube* video, 14:22. October 20, 2022. Retrieved October 26, 2023. [Archived](https://web.archive.org/web/20230402234837/https://www.youtube.com/watch?v=94Df7DbuKsA) from the original on April 2, 2023 via Wayback Machine.
+- NerdSync. "[YouTube has a shameless plagiarism problem. It's time to talk about it.](https://www.youtube.com/watch?v=ZwfRPX5k6gY)." *YouTube* video, 31:55. May 8, 2023. Retrieved October 26, 2023. [Archived](https://web.archive.org/web/20230515120536/https://www.youtube.com/watch?v=ZwfRPX5k6gY&list=WL&index=37) from the original on May 15, 2023 via Wayback Machine.
 - Tom Scott. "[YouTube's copyright system isn't broken. The world's is.](https://www.youtube.com/watch?v=1Jwo5qc78QU)." *YouTube* video, 42:28. March 23, 2020. Retrieved October 16, 2023. [Archived](https://web.archive.org/web20231014200952/https://www.youtube.com/watch?v=1Jwo5qc78QU) from the original on October 14, 2023 via Wayback Machine.
+- Viper Rambles. "[YouTuber Arrested for Copyright Infringement!](https://www.youtube.com/watch?v=8ZoVPyO1NKE)" *YouTube* video, 9:36. Retrieved October 26, 2023. Archiving pending from the original via Wayback Machine.
 ## Cultural Appropriation
 - moeyday. "[Asian American Responds to White Girl's Chinese Dress](https://www.youtube.com/watch?v=NHWCCUyCwX0)." *YouTube* video, 12:20. May 7, 2018. Retrieved October 16, 2023. Archiving pending from the original via Wayback Machine.
 - Morris, Amanda. "[Fake sign language is spreading on TikTok. Deaf people are worried.](https://www.washingtonpost.com/wellness/2023/05/08/fake-sign-language-asl-tiktok/)." *Washington Post*, May 8, 2023. Retrieved May 8, 2023. [Archived](https://archive.is/2AV0m) from the original on May 8, 2023 via archive.today.
@@ -27,4 +30,4 @@ If you find this document useful and wish to see continous updates, please consi
 [![Creative Commons Public Domain CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`COPYRIGHT.md`](./COPYRIGHT.md).
 
-Last updated October 23, 2023 (21:10:37 UTC).
+Last updated October 27, 2023 (03:14:50 UTC).
