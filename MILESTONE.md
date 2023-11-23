@@ -11,6 +11,7 @@
 - [ ] 15 000 views <!--- combined views on other YouTube channels -->
 - [ ] 100 YouTube subscribers <!--- ability to claim custom channel name -->
 - [ ] [500 YouTube subscribers](https://support.google.com/youtube/answer/13429240) <!--- lowered YPP requirements -->
+- [ ] 500 followed on Bluesky <!--- how many used to be followed on Twitter -->
 - [ ] [3 000 watch hours/365 days](https://support.google.com/youtube/answer/13429240) (long-form videos) <!--- lowered YPP requirements -->
 - [ ] [3 000 000 views/90 days](https://support.google.com/youtube/answer/13429240) (shorts) <!--- lowered YPP requirements -->
 - [ ] [1 000 YouTube subscribers](https://support.google.com/youtube/answer/72851?hl) <!--- YPP requirements -->
@@ -18,6 +19,7 @@
 - [ ] [4 000 hours watch time/365 days](https://support.google.com/youtube/answer/72851?hl) (long-form video) <!--- YPP requirements -->
 - [ ] [10 000 000 views/90 days](https://support.google.com/youtube/answer/72851?hl) (shorts)<!--- egibility for monetization of short-form content -->
 - [ ] 2 500 YouTube subscribers <!--- @biancaglamour on TikTok has 2498 followers as of 2023-06-13 -->
+- [ ] 7 800 followers on Bluesky <!--- how many followers used to be on Twitter -->
 - [ ] 400 000 likes <!--- @biancaglamour on TikTok has 356.1K likes as of 2023-06-13 -->
 - [ ] 50 000 views on a short-form video <!--- most viewed short with #WestSiberianLaika: https://www.youtube.com/shorts/gsELfCQl17Y -->
 - [ ] 1 400 000 million views on a long-form video <!--- most viewed laika-related video with English metadata: https://www.youtube.com/watch?v=UarfEA0v528&pp=ygUTd2VzdCBzaWJlcmlhbiBsYWlrYQ%3D%3D -->
