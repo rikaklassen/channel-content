@@ -13,6 +13,7 @@ All scripts and research materials will be released. Translators and transcriber
 Requested translations can be found under #TranslationTeam or in individual playlists. When done translating or captioning, either add "#WithSubtitles" or "#WithCaptions".
 
 Here are a few helpful styling and formatting guides to get started:
+- [BBC Subtitle Guideline](https://www.bbc.co.uk/accessibility/forproducts/guides/subtitles/) [Archived](https://web.archive.org/web/20231124051744/https://www.bbc.co.uk/accessibility/forproducts/guides/subtitles)
 - [The CBC Captioning Style Guide, January 2003](https://dcmp.org/learn/static-assets/nadh218.pdf) ([Archived](https://web.archive.org/web/20210413094513/https://dcmp.org/learn/static-assets/nadh218.pdf))
 - [Closed Captioning Standards and Protocol for Canadian English Language Broadcasters, February 2004](https://dcmp.org/learn/static-assets/nadh20.pdf) ([Archived](https://web.archive.org/web/20220630225628/https://dcmp.org/learn/static-assets/nadh20.pdf))
 - [Closed Captioning Standards and Protocol for Canadian English Language Television Programming Services, August 2012](https://assets.corusent.com/wp-content/uploads/2021/10/Closed_Captioning_Standards_Protocol.pdf) ([Archived](https://web.archive.org/web/20211201102059/https://assets.corusent.com/wp-content/uploads/2021/10/Closed_Captioning_Standards_Protocol.pdf))
