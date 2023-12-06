@@ -4,3 +4,4 @@ Deafblind. English and American Sign Language.
 * YouTube: https://www.youtube.com/@rikaklassen
 * Vimeo: https://vimeo.com/rikaklassen
 * TikTok: https://tiktok.com/@rikaklassen
+* PayPal: https://www.paypal.me/bglamours
