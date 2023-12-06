@@ -7,7 +7,7 @@
 > ### Where You Can Find Me
 > #### Active
 > - [Instagram](https://www.instagram.com/rikaklassen/) / [Pixelfed](https://pixelfed.social/rikaklassen)
-> - T̶w̶i̶t̶t̶e̶r̶ / Mastodon
+> - [Bluesky](https://bsky.app/profile/rikaklassen.bsky.social) / Mastodon / T̶w̶i̶t̶t̶e̶r̶ 
 > #### Pending
 > - [YouTube](https://www.youtube.com/@rikaklassen)
 > - [Vimeo](https://vimeo.com/rikaklassen)
