@@ -31,7 +31,10 @@
 - World Nomads. "[Becoming A Travel Filmmaker - Part Three - Gear Breakdown](https://www.youtube.com/watch?v=FUaZ5o4as8M)." *YouTube* video, 7:54. Retrieved December 7, 2023. [Archived](https://web.archive.org/web/20160909080834/https://www.youtube.com/watch?v=FUaZ5o4as8M&gl=US&hl=en) from the original on September 9, 2016 via Wayback Machine.
 - https://www.youtube.com/watch?v=qnERw1XX2Ho
 ### Tutorials
+- Creative North. "[GRADING BMPCC 4K | DaVinci Resolve (Blackmagic Pocket Cinema Camera)](https://www.youtube.com/watch?v=Wj_g1BYwJTk)." *YouTube video*, 1:01:34. February 19, 2019. Retrieved December 8, 2023. Archiving pending from the original via Wayback Machine.
 - EposVox. "[Keep your Stream Sound BALANCED with OBS Audio Ducking - OBS Studio Side-Chain & Ducking Guide](https://www.youtube.com/watch?v=1Te2JERlInQ)" *YouTube* video, 8:02. May 28, 2018. Retrieved December 7, 2023. [Archived](https://web.archive.org/web/20230808072035/https://www.youtube.com/watch?v=1Te2JERlInQ) from the original on August 8, 2023 via Wayback Machine.
+- Learn Color Grading. "[Cinematic Film Look Trick (in less than 2 minutes) - DaVinci Resolve Tutorial](https://www.youtube.com/watch?v=mUmogRJOlnI)." *YouTube* video, 1:24. June 14, 2017. Retrieved December 8, 2023. [Archived](https://web.archive.org/web/20230519064930/https://www.youtube.com/watch?v=mUmogRJOlnI&list=PL2_iVtycm4_dzXVXtfe2I7FgZGrtu4y9W&pp=iAQB) from the original on May 19, 2023 via Wayback Machine.
+- Haapoja, Matti. "[BEGINNER COLOR GRADING MISTAKE](https://www.youtube.com/watch?v=bgajU67j6eY)." *YouTube* video, 6:49. August 7, 2019. Retrieved December 8, 2023. [Archived](https://web.archive.org/web/20230331213100/https://www.youtube.com/watch?v=bgajU67j6eY) from the original on March 31, 2023.
 ## Support
 If you find this document useful and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
 ## License and Copyright
