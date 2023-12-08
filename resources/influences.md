@@ -1,7 +1,9 @@
+<!-- Videos are publicly available in playlists on the alternative YouTube channels. Decided to export them as list after hbomberguy's exposé of James Somerton. Used to be more diligent about keeping index cards of citations during university and having separate pages for references and citations on the previous blog but neglected to do so over the last few years. -->
 ### Citation Formats
 - [Philosphy Tube](https://www.youtube.com/@PhilosophyTube). n.d. Retrieved December 7, 2023. [Archived](https://web.archive.org/web/20231207082640/https://www.youtube.com/@PhilosophyTube) from the original on December 7, 2023 via Wayback Machine.
 ### Equipment Reviews
-- McKinnon, Peter. "[The ABSOLUTE BEST thing I have IN MY CAMERA BAG! (You need this)]."
+- McKinnon, Peter. "[The ABSOLUTE BEST thing I have IN MY CAMERA BAG! (You need this)](https://www.youtube.com/watch?v=Yod0Hf8VODs)." *YouTube* video, 8:12. September 4, 2018. Retrieved December 7, 2023. Archiving pending from the original via Wayback Machine.
+- PotatoJet. "[Why the Aputure 120d Mark II is my Favorite video light](https://www.youtube.com/watch?v=mSMofaNWHa4)." *YouTube* video, 11:35. April 3, 2019. Retrieved December 7, 2023. Archiving pending from the original via Wayback Machine.
 ### Filmmaking Kits
 - Harris, Iz. "[Minimal Video Gear | Vlog 006](https://www.youtube.com/watch?v=ebCAAsn-DLQ)." *YouTube* video, 7:35. Retrieved December 7, 2023. [Archived](https://web.archive.org/web/20201111025559/https://www.youtube.com/watch?v=ebCAAsn-DLQ) from the original on November 11, 2020 via Wayback Machine.
 - Harris, Iz. "[6 Things You NEED as a Travel Filmmaker](https://www.youtube.com/watch?v=7LYD6JSdFrE)." *YouTube* video, . June 3, 2018. Retrieved December 7, 2023. [Archived](https://web.archive.org/web/20230328133724/https://www.youtube.com/watch?v=7LYD6JSdFrE) from the original on March 28, 2023 via Wayback Machine.
