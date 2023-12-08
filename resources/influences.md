@@ -7,6 +7,7 @@
 - McKinnon, Peter. "[The ABSOLUTE BEST thing I have IN MY CAMERA BAG! (You need this)](https://www.youtube.com/watch?v=Yod0Hf8VODs)." *YouTube* video, 8:12. September 4, 2018. Retrieved December 7, 2023. Archiving pending from the original via Wayback Machine.
 - PotatoJet. "[Why the Aputure 120d Mark II is my Favorite video light](https://www.youtube.com/watch?v=mSMofaNWHa4)." *YouTube* video, 11:35. April 3, 2019. Retrieved December 7, 2023. Archiving pending from the original via Wayback Machine.
 - TEAMSUPERTRAMP. "[Best EDITING Accessory! In my opinion :)](https://www.youtube.com/watch?v=dudW6q_IMXc)." *YouTube* video, 4:31. March 24, 2016. Retrieved December 7, 2023. [Archived](https://web.archive.org/web/20160327120034/https://www.youtube.com/watch?v=dudW6q_IMXc&gl=US&hl=en) from the original on March 27, 2016 via Wayback Machine.
+- vagabrothers. "[9 Best Camera BackPacks For Travel & Vlogging | Gear Review & Tips]." *YouTube* video, 14:29. April 14, 2018. Retrieved December 7, 2023. [Archived](https://web.archive.org/web/20230601130502/https://www.youtube.com/watch?v=LPLJ1mPAs7M) from the original on June 1, 2023 via Wayback Machine.
 - https://www.youtube.com/watch?v=y5oggJ8_G3Q
 - https://www.youtube.com/watch?v=qRHXz1WY7DY
 ### Filmmaking Kits
