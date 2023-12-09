@@ -19,6 +19,7 @@
 - Xiang, Chloe, and Emanuel Maiberg. "[ISIS Executions and Non-Consensual Porn Are Powering AI Art](https://www.vice.com/en/article/93ad75/isis-executions-and-non-consensual-porn-are-powering-ai-art)." *Vice*, September 21, 2022. Retrieved April 20, 2023. [Archived](https://web.archive.org/web/20230408014026/https://www.vice.com/en/article/93ad75/isis-executions-and-non-consensual-porn-are-powering-ai-art) from the original on April 8, 2023 via Wayback Machine.
 ## Copyright Infringements and Plagiarism
 - Archeology Tube. "[Don't Be Like James Somerton: Advice on Citations and Plagiarism #plagiarism #citation #youtube](https://www.youtube.com/watch?v=DtfvADB6xPE)." *YouTube* video. 27:04. December 4, 2023. Retrieved December 6, 2023. Archiving pending via Wayback Machine.
+- Cass Eris. "[Citation Needed for You(Tube)? - How to not be a plagiarist](https://www.youtube.com/watch?v=-4jAyJDc8T4)." *YouTube* video, 25:29. December 8, 2023. Retrieved December 8, 2023. Archiving pending from the original via Wayback Machine.
 - DarkViperAU. "[Reactors: The Professional Parasites](https://www.youtube.com/watch?v=Irk8h0ax5aY)." *YouTube* video. 1:11:30. May 15, 2022. Retrieved October 16, 2023. Archiving pending from the original via Wayback Machine.
 - Faultline. "[Why All Educational Videos Are the Same](https://www.youtube.com/watch?v=94Df7DbuKsA)." *YouTube* video, 14:22. October 20, 2022. Retrieved October 26, 2023. [Archived](https://web.archive.org/web/20230402234837/https://www.youtube.com/watch?v=94Df7DbuKsA) from the original on April 2, 2023 via Wayback Machine.
 - hbomberguy. "[Plagiarism and You(Tube)](https://www.youtube.com/watch?v=yDp3cB5fHXQ)." *YouTube* video. 3:51:09. December 2, 2023. Retrieved December 6, 2023. [Archived](https://web.archive.org/web/20231206132140/https://www.youtube.com/watch?v=yDp3cB5fHXQ) from the original on December 6, 2023 via Wayback Machine.
@@ -40,4 +41,4 @@ If you find this document useful and wish to see continous updates, please consi
 [![Creative Commons Public Domain CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`COPYRIGHT.md`](./COPYRIGHT.md).
 
-Last updated December 7, 2023 (21:36:38 UTC).
+Last updated December 9, 2023 (16:29:55 UTC).
