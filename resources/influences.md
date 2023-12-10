@@ -34,6 +34,7 @@
 - https://www.youtube.com/watch?v=qnERw1XX2Ho
 ### Studio and Desk Setups
 - Antos, Tom. "[My Desk Tour - Ultimate Filmmaking Editing Station 2018](https://www.youtube.com/watch?v=UaDuqWC5Iak)." *YouTube* video, 20:35. December 7, 2018. Retrieved December 9, 2023. [Archived](https://web.archive.org/web/20230328140248/https://www.youtube.com/watch?v=UaDuqWC5Iak) from the original on March 28, 2023 via Wayback Machine.
+- MAKE. ART. NOW. "[My insanely EFFICIENT and CHEAP youtube studio](https://www.youtube.com/watch?v=JNN2X8ROdmk)." *YouTube* video, 7:04. January 12, 2018. Retrieved December 9, 2023. [Archived](https://web.archive.org/web/20221006231656/https://www.youtube.com/watch?app=desktop&v=JNN2X8ROdmk) from the original on October 6, 2022 via Wayback Machine.
 ### Tutorials
 - Creative North. "[GRADING BMPCC 4K | DaVinci Resolve (Blackmagic Pocket Cinema Camera)](https://www.youtube.com/watch?v=Wj_g1BYwJTk)." *YouTube video*, 1:01:34. February 19, 2019. Retrieved December 8, 2023. Archiving pending from the original via Wayback Machine.
 - EposVox. "[Keep your Stream Sound BALANCED with OBS Audio Ducking - OBS Studio Side-Chain & Ducking Guide](https://www.youtube.com/watch?v=1Te2JERlInQ)" *YouTube* video, 8:02. May 28, 2018. Retrieved December 7, 2023. [Archived](https://web.archive.org/web/20230808072035/https://www.youtube.com/watch?v=1Te2JERlInQ) from the original on August 8, 2023 via Wayback Machine.
