@@ -32,6 +32,8 @@
 - vagabrothers. "[Minimalist Travel Camera Essentials | Ultimate Travel Vlog Gear Review](https://www.youtube.com/watch?v=It2L29cCY-U)." *YouTube* video, 12:24. Retrieved December 7, 2023. [Archived](https://web.archive.org/web/20230601130534/https://www.youtube.com/watch?v=It2L29cCY-U) from the original on June 1, 2023 via Wayback Machine.
 - World Nomads. "[Becoming A Travel Filmmaker - Part Three - Gear Breakdown](https://www.youtube.com/watch?v=FUaZ5o4as8M)." *YouTube* video, 7:54. Retrieved December 7, 2023. [Archived](https://web.archive.org/web/20160909080834/https://www.youtube.com/watch?v=FUaZ5o4as8M&gl=US&hl=en) from the original on September 9, 2016 via Wayback Machine.
 - https://www.youtube.com/watch?v=qnERw1XX2Ho
+### Studio and Desk Setups
+- Antos, Tom. "[My Desk Tour - Ultimate Filmmaking Editing Station 2018](https://www.youtube.com/watch?v=UaDuqWC5Iak)." *YouTube* video, 20:35. December 7, 2018. Retrieved December 9, 2023. [Archived(https://web.archive.org/web/20230328140248/https://www.youtube.com/watch?v=UaDuqWC5Iak) from the original on March 28, 2023 via Wayback Machine.
 ### Tutorials
 - Creative North. "[GRADING BMPCC 4K | DaVinci Resolve (Blackmagic Pocket Cinema Camera)](https://www.youtube.com/watch?v=Wj_g1BYwJTk)." *YouTube video*, 1:01:34. February 19, 2019. Retrieved December 8, 2023. Archiving pending from the original via Wayback Machine.
 - EposVox. "[Keep your Stream Sound BALANCED with OBS Audio Ducking - OBS Studio Side-Chain & Ducking Guide](https://www.youtube.com/watch?v=1Te2JERlInQ)" *YouTube* video, 8:02. May 28, 2018. Retrieved December 7, 2023. [Archived](https://web.archive.org/web/20230808072035/https://www.youtube.com/watch?v=1Te2JERlInQ) from the original on August 8, 2023 via Wayback Machine.
