@@ -2,6 +2,8 @@
 ### Citation Formats
 - [Philosphy Tube](https://www.youtube.com/@PhilosophyTube). n.d. Retrieved December 7, 2023. [Archived](https://web.archive.org/web/20231207082640/https://www.youtube.com/@PhilosophyTube) from the original on December 7, 2023 via Wayback Machine.
 ### Equipment Reviews
+- Antos, Tom. "[Best and Worst Lenses for Blackmagic Pocket 4K Camera](https://www.youtube.com/watch?v=Oy2DGY1jyrc)." *YouTube* video, 13:11. March 30, 2019. Retrieved December 9, 2023. Archiving pending from the original via Wayback Machine.
+- Antos, Tom. "[Speedboosters Lens Adapters - M43 Cameras - BMPCC4K](https://www.youtube.com/watch?v=Aj7URLHoowI)." *YouTube* video, 9:01. March 2, 2019. Retrieved December 9, 2023. Archiving pending from the original via Wayback Machine.
 - Booth Junkie. "[Cloudlifter vs FETHEAD](https://www.youtube.com/watch?v=VlCIZ60NCf)." *YouTube* video, 19:43. October 24, 2017. Retrieved December 8, 2023. [Archived](https://web.archive.org/web/20230405193732/https://www.youtube.com/watch?v=VlCIZ60NCfk) from the original on April 5, 2023 via Wayback Machine.
 - EposVox. "[This microphone needs NO post-processing... Sennheiser MKH-416 Review](https://www.youtube.com/watch?v=Zk86zComC64)." *YouTube* video, 7:57. March 21, 2018. Retrieved December 7, 2023. [Archived](https://web.archive.org/web/20230418090745/https://www.youtube.com/watch?v=Zk86zComC64) from the original on April 18, 2023 via Wayback Machine.
 -  Ferreira, Armando. "[Editing and Color Grading using Loupedeck + in Adobe Premiere Pro 2019](https://www.youtube.com/watch?v=0ri3NNsaiCg)." *YouTube* video, 10:19. April 29, 2019. Retrieved December 7, 2023. [Archived](https://web.archive.org/web/20230503160637/https://www.youtube.com/watch?v=0ri3NNsaiCg) from the original on May 3, 2023 via Wayback Machine.
@@ -40,3 +42,5 @@ If you find this document useful and wish to see continous updates, please consi
 ## License and Copyright
 [![Creative Commons Public Domain CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`COPYRIGHT.md`](./COPYRIGHT.md).
+
+Last updated December 10, 2023 (03:01:51 UTC).
