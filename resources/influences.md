@@ -1,6 +1,6 @@
 <!-- Videos are publicly available in playlists on the alternative YouTube channels. Decided to export them as list after hbomberguy's exposé of James Somerton. Used to be more diligent about keeping index cards of citations during university and having separate pages for references and citations on the previous blog but neglected to do so over the last few years. -->
 ### Citation Formats
-- [Philosphy Tube](https://www.youtube.com/@PhilosophyTube). n.d. Retrieved December 7, 2023. [Archived](https://web.archive.org/web/20231207082640/https://www.youtube.com/@PhilosophyTube) from the original on December 7, 2023 via Wayback Machine.
+- [Philosphy Tube](https://www.youtube.com/@PhilosophyTube), YouTube. Retrieved December 7, 2023. [Archived](https://web.archive.org/web/20231207082640/https://www.youtube.com/@PhilosophyTube) from the original on December 7, 2023 via Wayback Machine.
 ### Equipment Reviews
 - Antos, Tom. "[Best and Worst Lenses for Blackmagic Pocket 4K Camera](https://www.youtube.com/watch?v=Oy2DGY1jyrc)." *YouTube* video, 13:11. March 30, 2019. Retrieved December 9, 2023. Archiving pending from the original via Wayback Machine.
 - Antos, Tom. "[Speedboosters Lens Adapters - M43 Cameras - BMPCC4K](https://www.youtube.com/watch?v=Aj7URLHoowI)." *YouTube* video, 9:01. March 2, 2019. Retrieved December 9, 2023. Archiving pending from the original via Wayback Machine.
