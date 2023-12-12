@@ -10,8 +10,8 @@
 - Watson, Rebecca. "[Big Oil Bought my Favorite Science Influencer](https://www.youtube.com/watch?v=vg81dHXEGMc)." *YouTube* video, 17:04. January 26, 2023. [Archived](https://web.archive.org/web/20230324013106/https://www.youtube.com/watch?v=vg81dHXEGMc) from the original on March 24, 2023 via Wayback Machine.
 ### Transparency
 - The Modern Rogue. "[Modern Rogue Update: November 2017](https://www.youtube.com/watch?v=w259Cj6Rbew&t=533s)." *YouTube* video, 10:46. November 14, 2017. Retrieved April 13, 2023. Archived copy not available for playback.
-- Tom Scott. "[Why Britain Sucks At Product Placement](https://www.youtube.com/watch?v=4SyetdjWMuw)." *YouTube* video, 5:17. January 4, 2016. Retrieved April 12, 2023. Archived copy not available for playback.
-- Tom Scott. "[YouTubers have to declare ads. Why doesn't anyone else?](https://www.youtube.com/watch?v=L-x8DYTOv7w)." *YouTube* video, 31:47. February 15, 2021. Retrieved April 12, 2023. Archived copy not available for playback.
+- Scott, Tom. "[Why Britain Sucks At Product Placement](https://www.youtube.com/watch?v=4SyetdjWMuw)." *YouTube* video, 5:17. January 4, 2016. Retrieved April 12, 2023. Archived copy not available for playback.
+- Scott, Tom. "[YouTubers have to declare ads. Why doesn't anyone else?](https://www.youtube.com/watch?v=L-x8DYTOv7w)." *YouTube* video, 31:47. February 15, 2021. Retrieved April 12, 2023. Archived copy not available for playback.
 ### Abuse
 - Shevek, Lee. "[Tactics for the Fight Against Abuse: Learning from Anti-Fascism](https://butchanarchy.medium.com/tactics-for-the-fight-against-abuse-learning-from-anti-fascism-b77679448a45)." *Medium*, April 11, 2023. Retrieved April 12, 2023. [Archived](http://web.archive.org/web/20230411180936/https://butchanarchy.medium.com/tactics-for-the-fight-against-abuse-learning-from-anti-fascism-b77679448a45) from the original on April 11, 2023 via Wayback Machine.
 ### Workers' Rights
