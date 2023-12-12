@@ -9,6 +9,7 @@
 - Think That Through. "[Kurzgesagt and the art of climate greenwashing](https://www.youtube.com/watch?v=uCuy1DaQzWI)." *YouTube* video, 1:49:47. June 2, 2022. Retrieved December 12, 2023. [Archived](https://web.archive.org/web/20231205184438/https://www.youtube.com/watch?v=uCuy1DaQzWI) from the original on December 5, 2023 via Wayback Machine.
 - Watson, Rebecca. "[Big Oil Bought my Favorite Science Influencer](https://www.youtube.com/watch?v=vg81dHXEGMc)." *YouTube* video, 17:04. January 26, 2023. [Archived](https://web.archive.org/web/20230324013106/https://www.youtube.com/watch?v=vg81dHXEGMc) from the original on March 24, 2023 via Wayback Machine.
 ### Transparency
+- Gamer Nexus. "[The Problem with Linus Tech Tips: Accuracy, Ethics, & Responsibility](https://www.youtube.com/watch?v=FGW3TPytTjc). *YouTube* video, 44:14. August 14, 2023. Retrieved December 12, 2023. [Archived](https://web.archive.org/web/20231211083525/https://www.youtube.com/watch?v=FGW3TPytTjc) from the original on December 11, 2023 via Wayback Machine.
 - The Modern Rogue. "[Modern Rogue Update: November 2017](https://www.youtube.com/watch?v=w259Cj6Rbew&t=533s)." *YouTube* video, 10:46. November 14, 2017. Retrieved April 13, 2023. Archived copy not available for playback.
 - Scott, Tom. "[Why Britain Sucks At Product Placement](https://www.youtube.com/watch?v=4SyetdjWMuw)." *YouTube* video, 5:17. January 4, 2016. Retrieved April 12, 2023. Archived copy not available for playback.
 - Scott, Tom. "[YouTubers have to declare ads. Why doesn't anyone else?](https://www.youtube.com/watch?v=L-x8DYTOv7w)." *YouTube* video, 31:47. February 15, 2021. Retrieved April 12, 2023. Archived copy not available for playback.
@@ -93,4 +94,4 @@ If you find this document useful and wish to see continous updates, please consi
 [![Creative Commons Public Domain CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`COPYRIGHT.md`](./COPYRIGHT.md).
 
-Last updated December 12, 2023 (14:31:00 UTC).
+Last updated December 12, 2023 (14:35:18 UTC).
