@@ -42,6 +42,7 @@
 ## Responsible Referencing
 - BadEmpanada. "[How To Research History: A Guide to Doing It Properly](https://www.youtube.com/watch?v=hMMoPteQuCQ)." *YouTube* video, 38:26. August 16, 2021. Retrieved December 10, 2023. [Archived](https://web.archive.org/web/20230729163729/https://www.youtube.com/watch?v=hMMoPteQuCQ) from the original on July 29, 2023 via Wayback Machine.
 - BadEmpanada 2. "[History YouTubers Are a Complete Joke](https://www.youtube.com/watch?v=OAhf4dBB-zY)." *YouTube* video, 1:08:49. December 8, 2022. Retrieved December 10, 2023. [Archived](https://web.archive.org/web/20230520040012/https://www.youtube.com/watch?v=OAhf4dBB-zY) from the original on May 20, 2023 via Wayback Machine.
+- veritas et caritas. [How do I check a source for accuracy?](https://www.youtube.com/watch?v=Ydu18-vPAto)." *YouTube* video, 23:28. November 10, 2023. Retrieved December 12, 2023. [Archived](https://web.archive.org/web/20231203081115/https://www.youtube.com/watch?v=Ydu18-vPAto&list=WL&index=4) from the original on December 3, 2023 via Wayback Machine.
 - veritas et caritas. "[Nine r/badhistory Youtube history channels](https://www.youtube.com/watch?v=V7qV7QBxmTE)." *YouTube* video, 1:41:53. February 19, 2023. Retrieved December 10, 2023. [Archived](https://web.archive.org/web/20231019115731/https://www.youtube.com/watch?v=V7qV7QBxmTE) from the original on October 19, 2023 via Wayback Machine.
 ## Support
 If you find this document useful and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
@@ -49,4 +50,4 @@ If you find this document useful and wish to see continous updates, please consi
 [![Creative Commons Public Domain CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`COPYRIGHT.md`](./COPYRIGHT.md).
 
-Last updated December 11, 2023 (03:08:37 UTC).
+Last updated December 12, 2023 (13:20:39 UTC).
