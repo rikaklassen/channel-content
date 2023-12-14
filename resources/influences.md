@@ -43,11 +43,11 @@
 - Learn Color Grading. "[Cinematic Film Look Trick (in less than 2 minutes) - DaVinci Resolve Tutorial](https://www.youtube.com/watch?v=mUmogRJOlnI)." *YouTube* video, 1:24. June 14, 2017. Retrieved December 8, 2023. [Archived](https://web.archive.org/web/20230519064930/https://www.youtube.com/watch?v=mUmogRJOlnI&list=PL2_iVtycm4_dzXVXtfe2I7FgZGrtu4y9W&pp=iAQB) from the original on May 19, 2023 via Wayback Machine.
 - Haapoja, Matti. "[BEGINNER COLOR GRADING MISTAKE](https://www.youtube.com/watch?v=bgajU67j6eY)." *YouTube* video, 6:49. August 7, 2019. Retrieved December 8, 2023. [Archived](https://web.archive.org/web/20230331213100/https://www.youtube.com/watch?v=bgajU67j6eY) from the original on March 31, 2023.
 ### Subtitling
-- - [NativLang](https://www.youtube.com/@PhilosophyTube](https://www.youtube.com/@NativLang), YouTube. Retrieved December 14, 2023. [Archived](https://web.archive.org/web/20231214000426/https://www.youtube.com/@NativLang)) from the original on December 14, 2023 via Wayback Machine.
+- - [NativLang](https://www.youtube.com/@NativLang), YouTube. Retrieved December 14, 2023. [Archived](https://web.archive.org/web/20231214000426/https://www.youtube.com/@NativLang)) from the original on December 14, 2023 via Wayback Machine.
 ## Support
 If you find this document useful and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
 ## License and Copyright
 [![Creative Commons Public Domain CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`COPYRIGHT.md`](./COPYRIGHT.md).
 
-Last updated December 14, 2023 (20:00:49 UTC).
+Last updated December 14, 2023 (20:01:58 UTC).
