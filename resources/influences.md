@@ -45,11 +45,11 @@
 - Pause and Select Endnotes. "[How I edit manga for videos, Part 1](https://www.youtube.com/watch?v=t6XL9N-0vMw)." *YouTube* video, 50:01. July 6, 2016. Retrieved December 15, 2023. [Archived]() from the original via Wayback Machine.
 - Pause and Select Endnotes. "[How I edit manga for videos, Part 2](https://www.youtube.com/watch?v=LXGZcI_PGw4)." *YouTube* video, 14:30. July 12, 2016. Retrieved December 15, 2023. [Archived](https://web.archive.org/web/20201108203435/https://www.youtube.com/watch?v=LXGZcI_PGw4) from the original on November 8, 2020 via Wayback Machine.
 ### Subtitling
-- - [NativLang](https://www.youtube.com/@NativLang), YouTube. Retrieved December 14, 2023. [Archived](https://web.archive.org/web/20231214000426/https://www.youtube.com/@NativLang)) from the original on December 14, 2023 via Wayback Machine. <!-- Like the utility of IPA for deaf audience who are not able to discerns the differences between written and spoken words -->
+- - [NativLang](https://www.youtube.com/@NativLang), YouTube. Retrieved December 14, 2023. [Archived](https://web.archive.org/web/20231214000426/https://www.youtube.com/@NativLang) from the original on December 14, 2023 via Wayback Machine. <!-- Like the utility of IPA for deaf audience who are not able to discerns the differences between written and spoken words -->
 ## Support
 If you find this document useful and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
 ## License and Copyright
 [![Creative Commons Public Domain CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`COPYRIGHT.md`](./COPYRIGHT.md).
 
-Last updated December 15, 2023 (18:54:44 UTC).
+Last updated December 15, 2023 (18:55:45 UTC).
