@@ -1,6 +1,7 @@
 ### Music
-- [Lo-Fi Girl - Lo-Fi Records](https://lofigirl.com/use-the-music/)
 - [Free Music Archive](https://freemusicarchive.org/FAQ_For_Videos/)
+- [Lo-Fi Girl - Lo-Fi Records](https://lofigirl.com/use-the-music/)
+- [YouTube Audio Library](https://studio.youtube.com/channel/UCFcnRJ6khAdVSSRGNiSmxUg/music)
 ### Stock Footage
 - [Coverr](https://coverr.co/)
 - [Mixkit](https://mixkit.co/)
