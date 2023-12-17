@@ -1,5 +1,6 @@
 <!-- Videos are publicly available in playlists on the alternative YouTube channels. Decided to export them as list after hbomberguy's exposé of James Somerton. Used to be more diligent about keeping index cards of citations during university and having separate pages for references and citations on the previous blog but neglected to do so over the last few years. -->
 ### Citation Formats
+- [The Cinema Cartography](https://www.youtube.com/@TheCinemaCartography), YouTube. Retrieved December 16, 2023. [Archived](https://web.archive.org/web/20231101133147/https://www.youtube.com/@TheCinemaCartography) from the original on November 1, 2023 via Wayback Machine.  <!-- They list the shots or clips from movies and films used in their video essays as custom subtitle track. --> <!-- Used to be known as Channel Criswell -->
 - [Philosphy Tube](https://www.youtube.com/@PhilosophyTube), YouTube. Retrieved December 7, 2023. [Archived](https://web.archive.org/web/20231207082640/https://www.youtube.com/@PhilosophyTube) from the original on December 7, 2023 via Wayback Machine. <!-- Abigail Thorn does a great job of including citations at the top of the screen visible to everyone -->
 ### Equipment Reviews
 - Antos, Tom. "[Best and Worst Lenses for Blackmagic Pocket 4K Camera](https://www.youtube.com/watch?v=Oy2DGY1jyrc)." *YouTube* video, 13:11. March 30, 2019. Retrieved December 9, 2023. Archiving pending from the original via Wayback Machine.
@@ -50,4 +51,4 @@ If you find this document useful and wish to see continous updates, please consi
 [![Creative Commons Public Domain CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`COPYRIGHT.md`](./COPYRIGHT.md).
 
-Last updated December 15, 2023 (18:55:45 UTC).
+Last updated December 17, 2023 (06:49:52 UTC).
