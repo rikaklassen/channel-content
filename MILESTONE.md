@@ -4,7 +4,7 @@
 - [ ] 12 000 views <!--- most viewed alternative YouTube channel -->
 - [ ] 25 long-form videos <!--- total videos uploaded to YouTube on other channels -->
 - [ ] 33 YouTube subscribers <!--- total number of subscribers to Hadassa Allison's YouTube channel -->
-- [ ] 56 YouTube subscribers <!--- combined subscribers on other YouTube channels -->
+- [ ] 61 YouTube subscribers <!--- combined subscribers on other YouTube channels -->
 - [ ] 69 YouTube subscribers <!--- reference to biancaglamour69's Twitter account -->
 - [ ] [Get @HadassaAllison to 69 subscribers](https://www.youtube.com/@HadassaAllison) <!--- self-referral joke to the Twitter's account @biancaglamour69 -->
 - [ ] 80 YouTube subscribers <!--- combined subscribers between both guardians -->
