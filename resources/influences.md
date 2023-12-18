@@ -18,6 +18,9 @@
 - PotatoJet. "[Why the Aputure 120d Mark II is my Favorite video light](https://www.youtube.com/watch?v=mSMofaNWHa4)." *YouTube* video, 11:35. April 3, 2019. Retrieved December 7, 2023. Archiving pending from the original via Wayback Machine.
 - TEAMSUPERTRAMP. "[Best EDITING Accessory! In my opinion :)](https://www.youtube.com/watch?v=dudW6q_IMXc)." *YouTube* video, 4:31. March 24, 2016. Retrieved December 7, 2023. [Archived](https://web.archive.org/web/20160327120034/https://www.youtube.com/watch?v=dudW6q_IMXc&gl=US&hl=en) from the original on March 27, 2016 via Wayback Machine.
 - vagabrothers. "[9 Best Camera BackPacks For Travel & Vlogging | Gear Review & Tips](https://www.youtube.com/watch?v=LPLJ1mPAs7M)." *YouTube* video, 14:29. April 14, 2018. Retrieved December 7, 2023. [Archived](https://web.archive.org/web/20230601130502/https://www.youtube.com/watch?v=LPLJ1mPAs7M) from the original on June 1, 2023 via Wayback Machine.
+- Zebra Zone. "[Blackmagic Pocket 4K - Real World Footage & Review [ 4K ]](https://www.youtube.com/watch?v=-SiHbdTVHCU)." *YouTube* video, 12:24. October 17, 2018. Retrieved December 18, 2023. [Archived](https://web.archive.org/web/20230509213918/https://www.youtube.com/watch?v=-SiHbdTVHCU) from the original on May 9, 2023 via Wayback Machine.
+- Zebra Zone. "[Blackmagic URSA Mini Pro vs Pocket 4K - On The Field Comparison ! [4K]](https://www.youtube.com/watch?v=EmuDLGCm7As)." *YouTube* video, 10:00. November 6, 2018. Retrieved December 18, 2023. [Archived](https://web.archive.org/web/20230410094033/https://www.youtube.com/watch?v=EmuDLGCm7As)from the original on April 10, 2023 via Wayback Machine.
+- Zebra Zone. "[How Does a Speedbooster Work ? ( and Metabones vs Viltrox )](https://www.youtube.com/watch?v=aPIoVuerdcM)." *YouTube* video, 8:47. December 4, 2018. Retrieved December 18, 2023. [Archived](https://web.archive.org/web/20230509215157/https://www.youtube.com/watch?v=aPIoVuerdcM) from the original on May 9, 2023 via Wayback Machine.
 - https://www.youtube.com/watch?v=y5oggJ8_G3Q <!-- Was sitting unlisted in a playlist. Unable to recover -->
 - https://www.youtube.com/watch?v=qRHXz1WY7DY <!-- Was sitting unlisted in a playlist. Unable to recover -->
 ### Filmmaking Kits
@@ -51,4 +54,4 @@ If you find this document useful and wish to see continous updates, please consi
 [![Creative Commons Public Domain CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`COPYRIGHT.md`](./COPYRIGHT.md).
 
-Last updated December 17, 2023 (06:49:52 UTC).
+Last updated December 18, 2023 (21:31:35 UTC).
