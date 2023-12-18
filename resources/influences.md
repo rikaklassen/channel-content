@@ -48,6 +48,7 @@
 - Haapoja, Matti. "[BEGINNER COLOR GRADING MISTAKE](https://www.youtube.com/watch?v=bgajU67j6eY)." *YouTube* video, 6:49. August 7, 2019. Retrieved December 8, 2023. [Archived](https://web.archive.org/web/20230331213100/https://www.youtube.com/watch?v=bgajU67j6eY) from the original on March 31, 2023.
 ### Subtitling
 - [NativLang](https://www.youtube.com/@NativLang), YouTube. Retrieved December 14, 2023. [Archived](https://web.archive.org/web/20231214000426/https://www.youtube.com/@NativLang) from the original on December 14, 2023 via Wayback Machine. <!-- Like the utility of IPA for deaf audience who are not able to discerns the differences between written and spoken words -->
+- [Tom Ska](https://www.youtube.com/@TomSka), YouTube. Retrieved December 18, 2023. [Archived](https://web.archive.org/web/20231218002132/https://www.youtube.com/@TomSka) from the original on December 18, 2023 via Wayback Machine. <!-- Separated community-contributed subtitles from official closed captioning tracks -->
 - [X̱ʼunei Lance Twitchell](https://www.youtube.com/@UASANLS), YouTube. Retrieved December 18, 2023. [Archived](https://web.archive.org/web/20230603183634/https://www.youtube.com/@UASANLS) from the original on June 3, 2023 via Wayback Machine. <!-- Cusotm subtitles for languages not recognized by YouTube or Google -->
 ## Support
 If you find this document useful and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
