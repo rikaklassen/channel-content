@@ -8,6 +8,7 @@
 - [ ] 69 YouTube subscribers <!--- reference to biancaglamour69's Twitter account -->
 - [ ] [Get @HadassaAllison to 69 subscribers](https://www.youtube.com/@HadassaAllison) <!--- self-referral joke to the Twitter's account @biancaglamour69 -->
 - [ ] 80 YouTube subscribers <!--- combined subscribers between both guardians -->
+- [ ] 90 YouTube shorts <!--- total amount posted to biancaglamour's TikTok account -->
 - [ ] 15 000 views <!--- combined views on other YouTube channels -->
 - [ ] 100 YouTube subscribers <!--- ability to claim custom channel name -->
 - [ ] [500 YouTube subscribers](https://support.google.com/youtube/answer/13429240) <!--- lowered YPP requirements -->
