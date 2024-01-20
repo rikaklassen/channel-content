@@ -1,3 +1,7 @@
+### Fonts
+- [Google Fonts](https://fonts.google.com/)
+- [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
+- [Lost Type Co-Op](https://www.losttype.com/)
 ### Music
 - [Free Music Archive](https://freemusicarchive.org/FAQ_For_Videos/)
 - [Lo-Fi Girl - Lo-Fi Records](https://lofigirl.com/use-the-music/)
