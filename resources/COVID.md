@@ -21,7 +21,8 @@ Iwamura, Narumichi, and Kanako Tsutsumi. "[SARS-CoV-2 airborne infection probabi
 - Watson, Rebecca. "[Study: Why You Should Avoid COVID Even if You’re “Healthy”](https://www.youtube.com/watch?v=_YZUMMkiyy4). *YouTube* video, August 30, 2023. Retrieved February 16, 2024. Archiving pending from the original via Wayback Machine.
 - Wu, Naomi. "[Best Aranet4 CO2 Meter Alternatives Under $100?](https://www.youtube.com/watch?v=Fo2cZiRyok)." *YouTube* video, August 11, 2022. Retrieved January 9, 2024. [Archived](https://web.archive.org/web/20231003185901/https://www.youtube.com/watch?v=Fo2cZiRyokk) from the original on October 3, 2023 via Wayback Machine.
 ### Blog Posts
-Fox, Joey. "[Clean Air Delivery Rate Is All That Matters!](https://itsairborne.com/clean-air-delivery-rate-is-all-that-matters-5a5a064c211e?gi=642bd1260250)." *Airborne* (blog). *Medium*. February 4, 2024. Retrieved February 16, 2024. [Archived](https://web.archive.org/web/20240212221300/https://itsairborne.com/clean-air-delivery-rate-is-all-that-matters-5a5a064c211e?gi=642bd1260250) from the original via Wayback Machine.
+- Doubleday, Julia. "[One little COVID infection is no reason to miss work, says Biden's very science-believing CDC](https://www.thegauntlet.news/p/one-little-covid-infection-is-no)". *The Gauntlet* (blog). *Substack*. February 15, 2024. Retrieved February 16, 2024. [Archived](https://web.archive.org/web/20240216232038/https://www.thegauntlet.news/p/one-little-covid-infection-is-no) from the original on February 16, 2024 via Wayback Machine.[^1]
+- Fox, Joey. "[Clean Air Delivery Rate Is All That Matters!](https://itsairborne.com/clean-air-delivery-rate-is-all-that-matters-5a5a064c211e?gi=642bd1260250)." *Airborne* (blog). *Medium*. February 4, 2024. Retrieved February 16, 2024. [Archived](https://web.archive.org/web/20240212221300/https://itsairborne.com/clean-air-delivery-rate-is-all-that-matters-5a5a064c211e?gi=642bd1260250) from the original via Wayback Machine.
 ### Websites
 - [Clean Air Crew](https://cleanaircrew.org/)
 - [Disability Visibility Project](https://disabilityvisibilityproject.com/)
@@ -31,5 +32,6 @@ If you find this document useful and wish to see continous updates, please consi
 ## License and Copyright
 [![Creative Commons Public Domain CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`COPYRIGHT.md`](./COPYRIGHT.md).
+[^1]: Not an endorsement of Substack, which the platform has problems with fascists and transphobia. Please use the archived link to boycott.
 
 Last updated February 16, 2024 (22:28:15 UTC).
