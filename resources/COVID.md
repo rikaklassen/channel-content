@@ -13,12 +13,13 @@ Iwamura, Narumichi, and Kanako Tsutsumi. "[SARS-CoV-2 airborne infection probabi
 - Pierre-Louis, Kendra. "[Three Years Later, Covid-19 Is Still a Health Threat. Journalism Needs to Reflect That](https://niemanreports.org/articles/three-years-later-covid-19-is-still-a-health-threat-journalism-needs-to-reflect-that/)." *Nieman*, April 12, 2023. Retrieved April 12, 2023. [Archived](https://web.archive.org/web/20230414022016/https://niemanreports.org/articles/three-years-later-covid-19-is-still-a-health-threat-journalism-needs-to-reflect-that/) from the original on April 14, 2023 via Wayback Machine.
 - Sklar, Debbie. "[UCSD Study Finds Masking, Proper Ventilation Helped Prevent COVID-19 Cases](https://timesofsandiego.com/health/2024/01/16/ucsd-study-finds-masking-proper-ventilation-helped-prevent-covid-19-cases/)." *Times of San Diego*, January 17, 2024. Retrieved January 19, 2024. [Archived](https://web.archive.org/web/20240117031755/https://timesofsandiego.com/health/2024/01/16/ucsd-study-finds-masking-proper-ventilation-helped-prevent-covid-19-cases/) from the original on January 17, 2024 via Wayback Machine. 
 - Wright, Robin. "['Who Is “Worthy'? Deaf-Blind People Fear That Doctors Won’t Save Them from the Coronavirus](https://www.newyorker.com/news/our-columnists/who-is-worthy-deaf-blind-people-fear-that-doctors-wont-save-them-from-the-coronavirus)." *The New Yorker*, April 28, 2020. Retrieved June 9, 2023. [Archived](https://web.archive.org/web/20230419085008/https://www.newyorker.com/news/our-columnists/who-is-worthy-deaf-blind-people-fear-that-doctors-wont-save-them-from-the-coronavirus) from the original on April 19, 2023 via Wayback Machine.
+### Videos
+- Embodi3D. "[DIY UV disinfection box for N95 masks and other equipment, fight coronavirus video!](https://www.youtube.com/watch?v=P5HsKmTTa-c)" *YouTube* video, .Retrieved February 16, 2024. [Archived](https://web.archive.org/web/20221025234318/https://www.youtube.com/watch?v=P5HsKmTTa-c) from the original on October 25, 2022 via Wayback Machine.
 - Wu, Naomi. "[Best Aranet4 CO2 Meter Alternatives Under $100?]." *YouTube* video, August 11, 2022. Retrieved January 9, 2024. [Archived](https://web.archive.org/web/20231003185901/https://www.youtube.com/watch?v=Fo2cZiRyokk) from the original on October 3, 2023 via Wayback Machine.
-
 ## Support
 If you find this document useful and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
 ## License and Copyright
 [![Creative Commons Public Domain CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`COPYRIGHT.md`](./COPYRIGHT.md).
 
-Last updated January 19, 2024 (23:09:46 UTC).
+Last updated February 16, 2024 (22:28:15 UTC).
