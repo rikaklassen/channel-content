@@ -15,7 +15,7 @@ Iwamura, Narumichi, and Kanako Tsutsumi. "[SARS-CoV-2 airborne infection probabi
 - Wright, Robin. "['Who Is “Worthy'? Deaf-Blind People Fear That Doctors Won’t Save Them from the Coronavirus](https://www.newyorker.com/news/our-columnists/who-is-worthy-deaf-blind-people-fear-that-doctors-wont-save-them-from-the-coronavirus)." *The New Yorker*, April 28, 2020. Retrieved June 9, 2023. [Archived](https://web.archive.org/web/20230419085008/https://www.newyorker.com/news/our-columnists/who-is-worthy-deaf-blind-people-fear-that-doctors-wont-save-them-from-the-coronavirus) from the original on April 19, 2023 via Wayback Machine.
 ### Videos
 - Embodi3D. "[DIY UV disinfection box for N95 masks and other equipment, fight coronavirus video!](https://www.youtube.com/watch?v=P5HsKmTTa-c)" *YouTube* video, .Retrieved February 16, 2024. [Archived](https://web.archive.org/web/20221025234318/https://www.youtube.com/watch?v=P5HsKmTTa-c) from the original on October 25, 2022 via Wayback Machine.
-- Wu, Naomi. "[Best Aranet4 CO2 Meter Alternatives Under $100?]." *YouTube* video, August 11, 2022. Retrieved January 9, 2024. [Archived](https://web.archive.org/web/20231003185901/https://www.youtube.com/watch?v=Fo2cZiRyokk) from the original on October 3, 2023 via Wayback Machine.
+- Wu, Naomi. "[Best Aranet4 CO2 Meter Alternatives Under $100?](https://www.youtube.com/watch?v=Fo2cZiRyok)." *YouTube* video, August 11, 2022. Retrieved January 9, 2024. [Archived](https://web.archive.org/web/20231003185901/https://www.youtube.com/watch?v=Fo2cZiRyokk) from the original on October 3, 2023 via Wayback Machine.
 ## Support
 If you find this document useful and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
 ## License and Copyright
