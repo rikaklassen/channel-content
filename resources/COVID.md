@@ -20,6 +20,8 @@ Iwamura, Narumichi, and Kanako Tsutsumi. "[SARS-CoV-2 airborne infection probabi
 - Untitled Anarchist Seagull Channel. "[A 'superhuman' speaks: How my family and I have avoided getting COVID for 2 1/2 years (and counting)](https://www.youtube.com/watch?v=WxWLoYr4sPs)." *YouTube* video, June 30, 2022. Retrieved February 16, 2024. Archiving pending via Wayback Machine.
 - Watson, Rebecca. "[Study: Why You Should Avoid COVID Even if You’re “Healthy”](https://www.youtube.com/watch?v=_YZUMMkiyy4). *YouTube* video, August 30, 2023. Retrieved February 16, 2024. Archiving pending from the original via Wayback Machine.
 - Wu, Naomi. "[Best Aranet4 CO2 Meter Alternatives Under $100?](https://www.youtube.com/watch?v=Fo2cZiRyok)." *YouTube* video, August 11, 2022. Retrieved January 9, 2024. [Archived](https://web.archive.org/web/20231003185901/https://www.youtube.com/watch?v=Fo2cZiRyokk) from the original on October 3, 2023 via Wayback Machine.
+### Blog Posts
+Fox, Joey. "[Clean Air Delivery Rate Is All That Matters!](https://itsairborne.com/clean-air-delivery-rate-is-all-that-matters-5a5a064c211e?gi=642bd1260250)." *Airborne* (blog). *Medium*. February 4, 2024. Retrieved February 16, 2024. [Archived](https://web.archive.org/web/20240212221300/https://itsairborne.com/clean-air-delivery-rate-is-all-that-matters-5a5a064c211e?gi=642bd1260250) from the original via Wayback Machine.
 ### Websites
 - [Clean Air Crew](https://cleanaircrew.org/)
 - [Disability Visibility Project](https://disabilityvisibilityproject.com/)
