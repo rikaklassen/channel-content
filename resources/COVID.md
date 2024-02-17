@@ -25,6 +25,7 @@ Iwamura, Narumichi, and Kanako Tsutsumi. "[SARS-CoV-2 airborne infection probabi
 - Fox, Joey. "[Clean Air Delivery Rate Is All That Matters!](https://itsairborne.com/clean-air-delivery-rate-is-all-that-matters-5a5a064c211e?gi=642bd1260250)" *Airborne*. *Medium*. February 4, 2024. Retrieved February 16, 2024. [Archived](https://web.archive.org/web/20240212221300/https://itsairborne.com/clean-air-delivery-rate-is-all-that-matters-5a5a064c211e?gi=642bd1260250) from the original via Wayback Machine.
 ### Websites
 - [Clean Air Crew](https://cleanaircrew.org/)
+- [Clean Air Kits](https://www.cleanairkits.com/)
 - [Disability Visibility Project](https://disabilityvisibilityproject.com/)
 - [Project N95](https://www.projectn95.org/)
 - [The Sick Times](https://thesicktimes.org/)
