@@ -26,8 +26,11 @@ Iwamura, Narumichi, and Kanako Tsutsumi. "[SARS-CoV-2 airborne infection probabi
 ### Websites
 - [Clean Air Crew](https://cleanaircrew.org/)
 - [Clean Air Kits](https://www.cleanairkits.com/)
+- [COVID Action Map](https://www.covidactionmap.org)
 - [Disability Visibility Project](https://disabilityvisibilityproject.com/)
+- [MaskBloc.org](https://maskbloc.org/)
 - [Project N95](https://www.projectn95.org/)
+- [Resist COVID Eugenics](https://resistcovideugenics.carrd.co/)
 - [The Sick Times](https://thesicktimes.org/)
 ## Support
 If you find this document useful and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
@@ -36,4 +39,4 @@ If you find this document useful and wish to see continous updates, please consi
 This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`COPYRIGHT.md`](./COPYRIGHT.md).
 [^1]: Not an endorsement of Substack, which the platform has problems with fascists and transphobia. Please use the archived link to boycott.
 
-Last updated February 16, 2024 (22:28:15 UTC).
+Last updated March 5, 2024 (15:47:45 UTC).
