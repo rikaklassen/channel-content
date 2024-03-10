@@ -29,6 +29,7 @@ Iwamura, Narumichi, and Kanako Tsutsumi. "[SARS-CoV-2 airborne infection probabi
 - [COVID Action Map](https://www.covidactionmap.org)
 - [Disability Visibility Project](https://disabilityvisibilityproject.com/)
 - [MaskBloc.org](https://maskbloc.org/)
+- [PDX Respirator Respository](https://docs.google.com/spreadsheets/d/1NuYVJasqD08cqrROVwoL9COoYtCHrLRYXShg4MtTHe4/)
 - [Project N95](https://www.projectn95.org/)
 - [Resist COVID Eugenics](https://resistcovideugenics.carrd.co/)
 - [The Sick Times](https://thesicktimes.org/)
@@ -39,4 +40,4 @@ If you find this document useful and wish to see continous updates, please consi
 This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`COPYRIGHT.md`](./COPYRIGHT.md).
 [^1]: Not an endorsement of Substack, which the platform has problems with fascists and transphobia. Please use the archived link to boycott.
 
-Last updated March 5, 2024 (15:47:45 UTC).
+Last updated March 10, 2024 (05:03:06 UTC).
