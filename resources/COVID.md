@@ -28,6 +28,7 @@ Iwamura, Narumichi, and Kanako Tsutsumi. "[SARS-CoV-2 airborne infection probabi
 - [Clean Air Kits](https://www.cleanairkits.com/)
 - [COVID Action Map](https://www.covidactionmap.org)
 - [Disability Visibility Project](https://disabilityvisibilityproject.com/)
+- [It's Airborne](https://itsairborne.com/)
 - [MaskBloc.org](https://maskbloc.org/)
 - [PDX Respirator Respository](https://docs.google.com/spreadsheets/d/1NuYVJasqD08cqrROVwoL9COoYtCHrLRYXShg4MtTHe4/)
 - [Project N95](https://www.projectn95.org/)
