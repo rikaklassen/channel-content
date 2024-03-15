@@ -3,7 +3,10 @@
 ## Security Culture
 - Geijer, Håkan. "[What the Corona Virus Pandemic Can Teach Us About Security Culture](https://opsec.riotmedicine.net/static/downloads/pandemic-security.pdf)" \[PDF, 15.6 MB\]. Retrieved April 16, 2023. [Archived](https://web.archive.org/web/20220626093848/https://opsec.riotmedicine.net/static/downloads/pandemic-security.pdf) from the original on June 26, 2022 via Wayback Machine.
 ## Websites
+- [Blackblogs](https://blackblogs.org/)
 - [No Trace Project](https://www.notrace.how/)
+- [Riseup](https://riseup.net/)
+- [Tails](https://tails.net/)
 ## Support
 If you find this document useful and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
 ## License and Copyright
