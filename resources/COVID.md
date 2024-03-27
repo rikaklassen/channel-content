@@ -27,12 +27,15 @@ Iwamura, Narumichi, and Kanako Tsutsumi. "[SARS-CoV-2 airborne infection probabi
 - [Clean Air Club](https://cleanairclub.org/)
 - [Clean Air Crew](https://cleanaircrew.org/)
 - [Clean Air Kits](https://www.cleanairkits.com/)
+- [Clean Air Stars](https://cleanairstars.com/filters/)
 - [COVID Action Map](https://www.covidactionmap.org)
-- [COVID Wiki]https://covidwiki.org/)
+- [Covid Toolbox](https://covidtoolbox.com/)
+- [COVID Wiki](https://covidwiki.org/)
 - [Disability Visibility Project](https://disabilityvisibilityproject.com/)
 - [It's Airborne](https://itsairborne.com/)
 - [MaskBloc.org](https://maskbloc.org/)
 - [MASK UP! Poster print pack](https://laurel-lynn-leake.itch.io/mask-up-poster-print-pack)
+- [Memorial Sloan Kettering Library Guide](https://libguides.mskcc.org/CovidImpacts)
 - [PDX Respirator Respository](https://docs.google.com/spreadsheets/d/1NuYVJasqD08cqrROVwoL9COoYtCHrLRYXShg4MtTHe4/)
 - [People's CDC](https://peoplescdc.org/)
 - [Project N95](https://www.projectn95.org/)
@@ -40,11 +43,13 @@ Iwamura, Narumichi, and Kanako Tsutsumi. "[SARS-CoV-2 airborne infection probabi
 - [Resist COVID Eugenics](https://resistcovideugenics.carrd.co/)
 - [ResTestThePlanet](https://www.testtheplanet.org/)
 - [The Sick Times](https://thesicktimes.org/)
+- [You Have To Live Your Life](https://youhavetoliveyour.life/)
+- [zeroes.ca](https://zeroes.ca/)
 ## Support
 If you find this document useful and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
 ## License and Copyright
 [![Creative Commons Public Domain CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`COPYRIGHT.md`](./COPYRIGHT.md).
-[^1]: Not an endorsement of Substack, which the platform has problems with fascists and transphobia. Please use the archived link to boycott.
+[^1]: Not an endorsement of Substack, which the platform has problems with fascists and transphobia. Please use the archived link to boycott the platform (not the author).
 
-Last updated March 10, 2024 (05:03:06 UTC).
+Last updated March 26, 2024 (05:37:43 UTC).
