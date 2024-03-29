@@ -23,6 +23,8 @@ Iwamura, Narumichi, and Kanako Tsutsumi. "[SARS-CoV-2 airborne infection probabi
 ### Blog Posts
 - Doubleday, Julia. "[One little COVID infection is no reason to miss work, says Biden's very science-believing CDC](https://www.thegauntlet.news/p/one-little-covid-infection-is-no)". *The Gauntlet*. *Substack*. February 15, 2024. Retrieved February 16, 2024. [Archived](https://web.archive.org/web/20240216232038/https://www.thegauntlet.news/p/one-little-covid-infection-is-no) from the original on February 16, 2024 via Wayback Machine.[^1]
 - Fox, Joey. "[Clean Air Delivery Rate Is All That Matters!](https://itsairborne.com/clean-air-delivery-rate-is-all-that-matters-5a5a064c211e?gi=642bd1260250)" *Airborne*. *Medium*. February 4, 2024. Retrieved February 16, 2024. [Archived](https://web.archive.org/web/20240212221300/https://itsairborne.com/clean-air-delivery-rate-is-all-that-matters-5a5a064c211e?gi=642bd1260250) from the original via Wayback Machine.
+### Tools
+- [Airborne Risk Indoor Online Calculator](https://partnersplatform.who.int/aria)
 ### Websites
 - [Clean Air Club](https://cleanairclub.org/)
 - [Clean Air Crew](https://cleanaircrew.org/)
@@ -52,4 +54,4 @@ If you find this document useful and wish to see continous updates, please consi
 This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`COPYRIGHT.md`](./COPYRIGHT.md).
 [^1]: Not an endorsement of Substack, which the platform has problems with fascists and transphobia. Please use the archived link to boycott the platform (not the author).
 
-Last updated March 26, 2024 (05:37:43 UTC).
+Last updated March 29, 2024 (16:59:06 UTC).
