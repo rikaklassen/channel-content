@@ -26,11 +26,14 @@ Iwamura, Narumichi, and Kanako Tsutsumi. "[SARS-CoV-2 airborne infection probabi
 ### Tools
 - [Airborne Risk Indoor Online Calculator](https://partnersplatform.who.int/aria)
 ### Websites
+- [Air Suppport Project](https://airsupportproject.com/)
 - [Clean Air Club](https://cleanairclub.org/)
 - [Clean Air Crew](https://cleanaircrew.org/)
 - [Clean Air Kits](https://www.cleanairkits.com/)
 - [Clean Air Stars](https://cleanairstars.com/filters/)
+- [COVID-19 Resources Canada](https://covid19resources.ca/)
 - [COVID Action Map](https://www.covidactionmap.org)
+- [Covid Tips](https://covid.tips/)
 - [Covid Toolbox](https://covidtoolbox.com/)
 - [COVID Wiki](https://covidwiki.org/)
 - [Disability Visibility Project](https://disabilityvisibilityproject.com/)
@@ -54,4 +57,4 @@ If you find this document useful and wish to see continous updates, please consi
 This repository and all files, documents, and source code contained in this repository, to the exant possible under law, is available under the [Creative Commons Zero 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/) license. Effectively, this project is public domain. Note that some illustrations and photographs are not public domain, and those can be found in [`COPYRIGHT.md`](./COPYRIGHT.md).
 [^1]: Not an endorsement of Substack, which the platform has problems with fascists and transphobia. Please use the archived link to boycott the platform (not the author).
 
-Last updated March 29, 2024 (16:59:06 UTC).
+Last updated June 4, 2024 (21:21:11 UTC).
