@@ -12,7 +12,7 @@
 > - [YouTube](https://www.youtube.com/@rikaklassen)
 > - [Vimeo](https://vimeo.com/rikaklassen)
 > #### Experimental
-> - [Tumblr](https://rikaklassen.tumblr.com) /  [Cohost](https://cohost.org/rikaklassen) /  P̶o̶s̶t̶e̶r̶o̶u̶s̶
+> - [Tumblr](https://rikaklassen.tumblr.com) /  Cohost /  P̶o̶s̶t̶e̶r̶o̶u̶s̶
 > #### Parked
 > - [TikTok](https://tiktok.com/@rikaklassen)
 > - [BeReal](https://bere.al/rikaklassen)
