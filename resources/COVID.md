@@ -34,6 +34,7 @@ Iwamura, Narumichi, and Kanako Tsutsumi. "[SARS-CoV-2 airborne infection probabi
 - [Clean Air Stars](https://cleanairstars.com/filters/)
 - [COVID-19 Resources Canada](https://covid19resources.ca/)
 - [COVID Action Map](https://www.covidactionmap.org)
+- [Covid Safe Dentists](https://www.covidsafedentists.ca/)
 - [Covid Tips](https://covid.tips/)
 - [Covid Toolbox](https://covidtoolbox.com/)
 - [COVID Wiki](https://covidwiki.org/)
